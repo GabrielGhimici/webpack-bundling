@@ -1,0 +1,19 @@
+{
+  "name": "webpack-bundling",
+  "version": "1.0.0",
+  "description": "Test on how to split a react app in modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielGhimici/webpack-bundling.git"
+  },
+  "author": "GabrielGhimici",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GabrielGhimici/webpack-bundling/issues"
+  },
+  "homepage": "https://github.com/GabrielGhimici/webpack-bundling#readme"
+}
