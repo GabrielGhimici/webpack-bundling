@@ -1,0 +1,33 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "baseUrl": "",
+    "outDir": "./dist",
+    "module": "esnext",
+    "target": "es5",
+    "lib": ["es6", "dom", "es2017"],
+    "allowJs": true,
+    "jsx": "react",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitReturns": true,
+    "importHelpers": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "noUnusedLocals": true,
+    "allowSyntheticDefaultImports": true,
+    "downlevelIteration": true,
+    "declaration": false,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "noStrictGenericChecks": true,
+    "resolveJsonModule": true,
+    "typeRoots": [
+        "node_modules/@types"
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
+  
